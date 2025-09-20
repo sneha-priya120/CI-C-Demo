@@ -26,4 +26,4 @@ jobs:
 
     with:
       name: hello-binary
-path: hello
+      path: hello
